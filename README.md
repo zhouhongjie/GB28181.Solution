@@ -59,9 +59,13 @@ running on aspnetcore 3.1+
   + [ ] 实现完整的历史视频搜索功能，History Video Record Search
   + [ ] 实现完整的历史视频播放功能, History Video PlayBack
 
-## License
 
-BSD v2
+## 讨论、成为共同作者、近距离贡献
+
+微信扫描二维码，添加好友，进入微信讨论群(注明：GB28181+公司+姓名)：
+
+![qrcode](./docs/crazybber.jpg)
+
 
 ## Inspired By
 
@@ -71,10 +75,6 @@ BSD v2
 
 + [GB28181-2016(C/C++)](https://github.com/usecpp/gb28181-2016)
 
+## License
 
-## 讨论、成为共同作者、近距离贡献
-
-微信扫描二维码，添加好友，进入微信讨论群(注明：GB28181+公司+姓名)：
-
-![qrcode](./docs/crazybber.jpg)
-
+BSD v2
