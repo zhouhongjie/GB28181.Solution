@@ -69,7 +69,9 @@ running on aspnetcore 3.1+
 
 ## Inspired By
 
-+ [Gb28181_Platform](https://github.com/mackenbaron/Gb28181_Platform)
++ [GB28181 Server](https://github.com/mackenbaron/Gb28181_Platform)
+
++ [MeidaNetEngine](https://github.com/chenmuyong/Gb28181_Platform2016_Test/tree/master/SLW.MeidaNetEngine)
 
 + [sipsorcery](https://github.com/sipsorcery/sipsorcery)
 
