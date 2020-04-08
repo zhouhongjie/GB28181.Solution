@@ -69,7 +69,7 @@ running on aspnetcore 3.1+
 
 ## Inspired By
 
-+ [GB28181_Platform2016_Test](https://github.com/qinpengit/Gb28181_Platform2016_Test)
++ [Gb28181_Platform](https://github.com/mackenbaron/Gb28181_Platform)
 
 + [sipsorcery](https://github.com/sipsorcery/sipsorcery)
 
